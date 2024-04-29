@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Melquiades H.R. 👋 Creator of the website:</h1>
-<h2 align="center"><a href="https://binarieschool.com" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠" target="_blank">🌐 binarieschool.com</a></h2>
+<h2 align="center"><a href="https://binarieschool.com" target="_blank" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠">🌐 binarieschool.com</a></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About my project
 
