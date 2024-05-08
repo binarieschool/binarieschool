@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Melquiades H.R. Creator of the website:</h1>
 <h2 align="center"><a href="https://binarieschool.com" target="_blank" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠">🌐 binarieschool.com</a </h2>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp; About this project
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp; ***About this project***
 
 ## ***My working tools*** &nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42">
 
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;***Github Stats***
 
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
