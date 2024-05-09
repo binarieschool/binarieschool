@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Melquiades H.R. Creator of the website:</h1>
-<h2 align="center"><a href="https://binarieschool.com" target="_blank" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠">🌐 binarieschool.com</a </h2>
+<h2 align="center"><a href="https://binarieschool.com" target="_blank" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠">🌐 binarieschool.com</a></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp; ***About this project***
 
@@ -55,9 +55,9 @@
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" />
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />  
+  <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  
+  
 </p>  
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;***Contact me***
