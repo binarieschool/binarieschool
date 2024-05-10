@@ -24,16 +24,13 @@
 ### Mobile apps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="" target="_blank" title="React-Native"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </p>
 
 ### Databases
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-ff8533?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <a href="https://reactnative.dev/" target="_blank" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.shields.io/badge/MySQL-ff8533?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.sqlite.org/" target="_blank" title="Sqlite"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
 ### Artificial Intelligence
