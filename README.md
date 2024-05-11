@@ -49,6 +49,8 @@
 
   ☎️ <a href="mailto:softwareprojectsmelquiades@gmail.com" alt="Email" style="color:red;">softwareprojectsmelquiades@gmail.com</a>
 
+  [softwareprojectsmelquiades@gmail.com](mailto:softwareprojectsmelquiades@gmail.com)
+
 
 <!--
 **binarieschool/binarieschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
