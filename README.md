@@ -1,7 +1,22 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Melquiades H.R. Creator of the website:</h1>
 <h2 align="center"><a href="https://binarieschool.com" target="_blank" title="🌐 Web Programming, Python 🐍 and Artificial Intelligence 🧠">🌐 binarieschool.com</a></h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp; ***About this project***
+
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+  
+<br/>
 
 ## ***My working tools*** &nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42">
 
@@ -27,10 +42,9 @@
 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://numpy.org/" target="_blank" title="Numpy"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;<a href="https://keras.io/" target="_blank" title="Keras"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://scipy.org/" target="_blank" title="Scipy"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;&nbsp;<a href="https://plotly.com/" target="_blank" title="Plotly"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a>
-  
-  
-  
 </p>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;***Github Stats***
 
@@ -38,6 +52,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarieschool&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
 </p>
+
+<br/>
 
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
@@ -47,10 +63,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;***Contact me***
 
-  ☎️ <a href="mailto:softwareprojectsmelquiades@gmail.com" alt="Email" style="color:red;">softwareprojectsmelquiades@gmail.com</a>
-
-  [softwareprojectsmelquiades@gmail.com](mailto:softwareprojectsmelquiades@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:softwareprojectsmelquiades@gmail.com)](mailto:softwareprojectsmelquiades@gmail.com)
 
 <!--
 **binarieschool/binarieschool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -66,6 +79,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
