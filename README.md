@@ -34,18 +34,20 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;***Github Stats***
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="binarieschool"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarieschool&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
+</p>
 
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
 <p align="center">
-  <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  
-  
+  <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
 </p>  
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;***Contact me***
+
+  ☎️ [![Gmail Badge](https://img.shields.io/badge/-softwareprojectsmelquiades@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:softwareprojectsmelquiades@gmail.com)](softwareprojectsmelquiades@gmail.com)
 
 
 <!--
