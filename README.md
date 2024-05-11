@@ -47,7 +47,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;***Contact me***
 
-  ☎️ [![Gmail Badge](https://img.shields.io/badge/-softwareprojectsmelquiades@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:softwareprojectsmelquiades@gmail.com)](softwareprojectsmelquiades@gmail.com)
+  ☎️ <a href="mailto:softwareprojectsmelquiades@gmail.com" alt="Email" style="color:red;">softwareprojectsmelquiades@gmail.com</a>
 
 
 <!--
