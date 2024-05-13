@@ -7,14 +7,14 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🚀 A website based on web, mobile and AI learning.
+- 💻 Technologies seen with: React JS, Python and AI.
+- 📚 Independent courses, with their own search engine.
+- 💼 The website has a portfolio, with all my projects.
+- 🐈‍⬛ All projects are available on Github.
+- 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
+- 📆 Date of updates in the courses.
+- 🤔 Want to ask about something?
   
 <br/>
 
@@ -49,8 +49,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;***Github Stats***
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarieschool&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=binarieschool&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
 </p>
 
 <br/>
@@ -70,9 +70,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🚀 A website based on web, mobile and AI learning.
+- 💻 Technologies seen with: React JS, Python and AI.
+- 💼 The website has a portfolio, with all my projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
