@@ -17,7 +17,7 @@
 - 🐈‍⬛ All projects are available on Github.
 - 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
 - 📆 Date of updates in the courses.
-- 🤔 Want to ask about something?
+- 🤔 [Want to ask about something?](#email)
   
 <br/>
 
@@ -62,6 +62,7 @@
 <br/>
 
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
+<h2 id="email"><b>Social Networks</b>&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35"></h2>
 
 <p align="center">
   <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
