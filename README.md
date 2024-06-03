@@ -1,6 +1,8 @@
 > [!WARNING]
 > 🚧️ THIS PROFILE IS **UNDER CONSTRUCTION** !!! 🚧️
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&textBg=false&fontSize=50&animation=fadeIn&rotate=0&fontColor=cc00cc&fontAlign=50">
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Melquiades H.R. Creator of the website:</h1>
@@ -22,12 +24,12 @@
   - ...
 </pre>
 
-  
 <br/>
 
 ### Web development
 
 <p align="center">
+  <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" height="250" width="300" frameBorder="0" class="giphy-embed" allowFullScreen />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;&nbsp;<a href="https://react.dev/" target="_blank" title="React"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>&nbsp;&nbsp;<a href="https://nodejs.org/" target="_blank" title="NodeJS"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>&nbsp;&nbsp;<a href="https://expressjs.com/" target="_blank" title="Express"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/" target="_blank" title="NPM"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/" target="_blank" title="Django"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>&nbsp;&nbsp;<a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
 </p>
 
