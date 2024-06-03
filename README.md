@@ -41,11 +41,21 @@
   <a href="https://reactnative.dev/" target="_blank" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank" title="MySQL"><img src="https://img.shields.io/badge/MySQL-ff8533?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.sqlite.org/" target="_blank" title="Sqlite"><img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
+<br/>
+
+> [!TIP]
+>🤔 "The only way to learn a new programming language is to write programs in it". - ***Dennis Ritchie***
+
+
 ### Artificial Intelligence
 
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://numpy.org/" target="_blank" title="Numpy"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;<a href="https://keras.io/" target="_blank" title="Keras"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://scipy.org/" target="_blank" title="Scipy"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;&nbsp;<a href="https://plotly.com/" target="_blank" title="Plotly"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a> 
 </p>
+<br/>
+
+> [!TIP]
+>🤔 "The best way to predict the future is to invent it " - ***Alan Kay***
 
 <br/>
 
@@ -62,6 +72,11 @@
 <p align="center">
   <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
 </p>  
+
+<br/>
+
+> [!TIP]
+>🤔 "If you don't share your knowledge, it's like you don't have any." - ***Melquiades H.R.***
 
 <h2 id="email"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;<b>Contact me</b></h2>
 
