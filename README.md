@@ -9,19 +9,21 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>&nbsp;&nbsp;&nbsp; ***About this project***
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<pre>
+  - 🚀 A website based on web, mobile and AI learning.
+  - 💻 Technologies seen with: React JS, Python and AI.
+  - 📚 Independent courses, with their own search engine.
+  - 💼 The website has a portfolio, with all my projects.
+  - 🐈‍⬛ All projects are available on Github.
+  - 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
+  - 📆 Date of updates in the courses.
+  - 🤔 [Want to ask about something?](#email)
+  - ...
+  - ...
+</pre>
 
-- 🚀 A website based on web, mobile and AI learning.
-- 💻 Technologies seen with: React JS, Python and AI.
-- 📚 Independent courses, with their own search engine.
-- 💼 The website has a portfolio, with all my projects.
-- 🐈‍⬛ All projects are available on Github.
-- 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
-- 📆 Date of updates in the courses.
-- 🤔 [Want to ask about something?](#email)
   
 <br/>
-
-## ***My working tools*** &nbsp;&nbsp;&nbsp;<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="42">
 
 ### Web development
 
