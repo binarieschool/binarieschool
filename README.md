@@ -43,6 +43,7 @@
 
 <br/>
 
+> [!TIP]
 >🤔 ***`"The only way to learn a new programming language is to write programs in it"`***
 >
 > ***Dennis Ritchie***
@@ -54,6 +55,7 @@
 </p>
 <br/>
 
+> [!TIP]
 >🤔 ***`"The best way to predict the future is to invent it"`***
 >
 >***Alan Kay***
@@ -74,6 +76,7 @@
 
 <br/>
 
+> [!TIP]
 >🤔 ***`"If you don't share your knowledge, it's like you don't have any"`*** 
 >
 >***Melquiades H.R.***
