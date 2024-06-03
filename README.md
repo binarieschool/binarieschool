@@ -43,9 +43,9 @@
 
 <br/>
 
-> [!TIP]
->🤔 "The only way to learn a new programming language is to write programs in it". - ***Dennis Ritchie***
-
+>🤔 ***`"The only way to learn a new programming language is to write programs in it"`***
+>
+> ***Dennis Ritchie***
 
 ### Artificial Intelligence
 
@@ -54,10 +54,9 @@
 </p>
 <br/>
 
-> [!TIP]
->🤔 "The best way to predict the future is to invent it " - ***Alan Kay***
-
-<br/>
+>🤔 ***`"The best way to predict the future is to invent it"`***
+>
+>***Alan Kay***
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="47" height="47" style="margin-right: 10px;">&nbsp;&nbsp;***Github Stats***
 
@@ -75,8 +74,9 @@
 
 <br/>
 
-> [!TIP]
->🤔 "If you don't share your knowledge, it's like you don't have any." - ***Melquiades H.R.***
+>🤔 ***`"If you don't share your knowledge, it's like you don't have any"`*** 
+>
+>***Melquiades H.R.***
 
 <h2 id="email"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;<b>Contact me</b></h2>
 
