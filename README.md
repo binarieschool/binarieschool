@@ -1,7 +1,7 @@
 > [!WARNING]
-> 🚧️ THIS PROFILE IS **UNDER CONSTRUCTION** !!! 🚧️
+> 🚧️ THIS PROFILE IS **UNDER CONSTRUCTION** !!! 🚧️ 
 >
-> ***Last update:*** 3 June - 2024
+> ***Last update:*** 4 June - 2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&textBg=false&fontSize=50&animation=fadeIn&rotate=0&fontColor=cc00cc&fontAlign=50">
 
@@ -22,21 +22,9 @@
   - 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
   - 📆 Date of updates in the courses.
   - 🤔 [Want to ask about something?](#email)
-  - ...
-  - ...
 </pre>
 
 <br/>
-
-### Programming languages
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
-</div>
 
 ### Web development
 
