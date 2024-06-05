@@ -21,7 +21,7 @@
   - 🐈‍⬛ All projects are available on Github.
   - 🌐 Translated into several languages 🇬🇧 🇪🇸 🇫🇷 🇩🇪 🇵🇹
   - 📆 Date of updates in the courses.
-  - 🤔 [Want to ask about something?](#email)
+  - 🤔 <a id='#email'>Want to ask about something?</a>
 </pre>
 
 <br/>
