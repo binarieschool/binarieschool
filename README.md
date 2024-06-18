@@ -70,10 +70,9 @@
 
 <p align="center">
   <a href="https://github.com/binarieschool"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=binarieschool&theme=dracula&hide_border=true"  width="520" alt="binarieschool"/></a>
-</p>
-
-![Metrics](https://metrics.lecoq.io/binarieschool?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Atlantic%2FCanary)
+</br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
+</p>
 
 <br/>
 
