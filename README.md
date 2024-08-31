@@ -79,8 +79,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=binarieschool&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="binarieschool"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/binarieschool?template=terminal&base.header=0&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Atlantic%2FCanary)
-
 > [!TIP]
 >🤔 ***`"Imagination is the discovering faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science"`***
 >
