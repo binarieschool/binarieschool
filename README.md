@@ -1,7 +1,7 @@
 > [!WARNING]
 > 🚧️ THIS PROFILE IS **UNDER CONSTRUCTION** !!! 🚧️ 
 >
-> ***Last update:*** 20 June - 2024
+> ***Last update:*** 31 Agost - 2024
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=true&textBg=false&fontSize=50&animation=fadeIn&rotate=0&fontColor=cc00cc&fontAlign=50">
 
@@ -118,3 +118,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thank+you+for+visiting+our+Github+profile.)](https://git.io/typing-svg)
 
+<p align="center"> 
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/binarieschool/count.svg"/>
+  </div> 
+  <div align="center"><b>Visits</b></div>
+</p>
