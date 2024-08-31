@@ -85,7 +85,8 @@
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
 <p align="center">
-  <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+  <a href="https://codepen.io/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codepen-ffffff?style=for-the-badge&logo=codepen&logoColor=black" /></a>&nbsp;&nbsp;<a href="https://codesandbox.io/u/binarieschool" target="_blank" title="Codepen"><img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/binarieschool/" target="_blank" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://discord.com/" target="_blank" title="Discord"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+
 </p>  
 
 <br/>
@@ -102,6 +103,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 <div align=center>
   <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="70">
