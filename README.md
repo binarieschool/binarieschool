@@ -81,6 +81,8 @@
 >🤔 ***`"Imagination is the discovering faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science"`***
 >
 >***Ada Lovelace***
+> 
+<br/>
 
 ## ***Social Networks***&nbsp;&nbsp;&nbsp;<img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "35" height= "35">
 
