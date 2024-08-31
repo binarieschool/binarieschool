@@ -54,6 +54,10 @@
 
 ### Artificial Intelligence
 
+<br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<br/>
+
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://numpy.org/" target="_blank" title="Numpy"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>&nbsp;&nbsp;<a href="https://keras.io/" target="_blank" title="Keras"><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://pandas.pydata.org/" target="_blank" title="Pandas"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank" title="PyTorch"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://scipy.org/" target="_blank" title="Scipy"><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>&nbsp;&nbsp;<a href="https://plotly.com/" target="_blank" title="Plotly"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"></a> 
   <br/>
