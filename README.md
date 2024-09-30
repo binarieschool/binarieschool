@@ -122,5 +122,5 @@
   <div align="center">
     <img src="https://profile-counter.glitch.me/binarieschool/count.svg"/>
   </div> 
-  <div align="center"><b>Visits</b></div>
+  <div align="center"><b>Number of visits</b></div>
 </p>
