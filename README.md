@@ -102,7 +102,7 @@
 
 <h2 id="email"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">&nbsp;<b>Contact me</b></h2>
 
-<p>I am at your complete disposal to resolve any doubts or queries you may have. Do not hesitate to contact me and I will be happy to help you.</p>
+<p>I am at your complete disposal to resolve any doubts or queries you may have. Do not hesitate to contact me and I will be happy to help you. 😊</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:softwareprojectsmelquiades@gmail.com)](mailto:softwareprojectsmelquiades@gmail.com)
 
